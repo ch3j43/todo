@@ -1,0 +1,2 @@
+## requirement
+# PHP, SQLITE, Composer
